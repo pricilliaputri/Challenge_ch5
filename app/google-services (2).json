@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "818923202664",
+    "project_id": "challenge5-ea6a0",
+    "storage_bucket": "challenge5-ea6a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818923202664:android:8b04ae622c5cb19f8a33dd",
+        "android_client_info": {
+          "package_name": "com.punyacile.challenge_ch5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818923202664-cead3falio11vggrljn9nittqcg4b67o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.punyacile.challenge_ch5",
+            "certificate_hash": "798ff5762983070a94497aff165e15b1d67dd03d"
+          }
+        },
+        {
+          "client_id": "818923202664-mntjsrl1425fu3hbq9892m5c8bc8pd8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClNj2Ymwh5IJ1R1WAHPkmhKGqjvfYNwHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818923202664-mntjsrl1425fu3hbq9892m5c8bc8pd8d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
