@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Challenge_ch5</string>
+    <string name="signin">Connexion</string>
+    <string name="signup">S’enregistrer</string>
+    <string name="login">Connectez-vous</string>
+    <string name="register">registre</string>
+    <string name="welcome">Bonjour, bienvenue!</string>
+    <string name="already">Déjà inscrit? Connexion!</string>
+    <string name="not_registered">Vous n’êtes pas encore inscrit? S’enregistrer!</string>
+    <string name="not_yet">Vous n’êtes pas encore inscrit? S’enregistrer!</string>
+    <string name="hello">Bonjour!</string>
+    <string name="home">domicile</string>
+</resources>
